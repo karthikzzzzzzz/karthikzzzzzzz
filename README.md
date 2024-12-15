@@ -12,7 +12,4 @@ Hi, I am Karthik Rajan from Chennai, India.<br><br>I am currently Pursuing my B.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karthikzzzzzzz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikzzzzzzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=karthikzzzzzzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
